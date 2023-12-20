@@ -1,0 +1,41 @@
+
+--SQL - Structured Query Language - its language to communicate with database.
+
+--Database - storage system - collection of a DATA, it helps to perform various operations on the data.
+
+--Data - Information- business data - facts, information 
+
+--Database tools - Oracle, MySQL, MongoDB, Microsoft SQL server,SQLLite 
+
+--RDBMS - Relational Database Management System - 
+
+--TABLE - Columns & Rows 
+
+--CREATE Table <tableName> (Column1 datatype, column2 datatype... )
+
+--Constraints - Business rules - restrictions
+
+-- Primary Key/foreign Key 
+
+-- Primary Key - Unique, not null, duplicate - ID field of table.
+
+-- foreign Key - key refering to a primary key of other table. (Parent table -> dependent table) 
+
+-- Data types - Int,integer, numeric, varchar,decimal, float, date,boolean 
+
+--INSERT data - 
+
+-- SQL statement Types - DDL,DML,DCL,TCL
+		--DDL  -Data definition language - CREATE,ALTER,TRUNCATE, DROP 
+		--DML  -Data Manipulation Language - CRUD - SELECT,INSERT, UPDATE,DELETE 
+		--DCL  - Data Control Language -- commit, rollback
+		--TCL  Transaction Control language  -- 
+
+--DML
+	--Group by - used with aggregate functions -  used to display the aggregated data from table.
+	--WHERE  -- filtering of the data - restricting the data with some condition
+	--ORDER BY - sorting data 
+	-- Aggregate functions - SUM(),MIN(),MAX(),COUNT(),AVG(),VAR()
+
+--Import data from Excel - create table 
+
